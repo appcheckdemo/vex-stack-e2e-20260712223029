@@ -1,0 +1,2 @@
+GitHub-primary E2E B 20260713114750
+Retry after intentional candidate failure 20260713T1833Z
